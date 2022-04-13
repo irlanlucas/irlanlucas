@@ -6,10 +6,6 @@
   
   ## Olá pessoal, meu nome é Irlan 👋🏼 
   
-  #### Sou estudante de Analise e Desenvolvimento de Sistemas pela Estácio de Sá 📚
-  
-  #### Sou de Fortaleza-CE 🏝️
-  
-  #### Tenho 24 anos 😬
-  
-  - Faz pouco tempo que estou nessa área e pra ser sincero não sei ainda no que vou me especializar mas tô bem animado e ansioso para o que está vir com essa experiência. 
+                             Sou estudante de Analise e Desenvolvimento de Sistemas pela Estácio de Sá tenho 24 anos 
+                             Sou fascinado por computação desde que criança e pra ser sincero não sei ainda no que vou me 
+                             especializar mas tô bem animado e ansioso para o que está vir com essa experiência. 
